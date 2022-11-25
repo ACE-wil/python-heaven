@@ -1,0 +1,549 @@
+{
+     "status": "0",
+     "data": {
+          "updateTime": "2022-11-24 22:28",
+          "tabs": [],
+          "tabIds": [],
+          "data": [
+               {
+                    "loc": "http://tiyu.baidu.com/stats/player/beb662d81601d2fc1d978ff89c8ab21c/155/2022/00/10",
+                    "playerId": "beb662d81601d2fc1d978ff89c8ab21c",
+                    "playerName": "迈赫迪·塔雷米",
+                    "logo": "https://cdn.sportnanoapi.com/avatar/40024135b097a324f6dfa87ab9c5ff49.png",
+                    "teamName": "伊朗",
+                    "statsName": "射⼿榜",
+                    "score": "2",
+                    "penaltyValue": "1",
+                    "position": "前锋",
+                    "link": "/player?id=beb662d81601d2fc1d978ff89c8ab21c",
+                    "naTabInfo": {
+                         "tabId": 44,
+                         "title": "动态",
+                         "loadUrl": "https://tiyu.baidu.com/player?id=beb662d81601d2fc1d978ff89c8ab21c&tab=%E5%8A%A8%E6%80%81&from=baidu_shoubai_na",
+                         "shareUrl": "https://tiyu.baidu.com/player?id=beb662d81601d2fc1d978ff89c8ab21c&tab=%E5%8A%A8%E6%80%81"
+                    }
+               },
+               {
+                    "loc": "http://tiyu.baidu.com/stats/player/b0ae24d9ba4812923fd0a6aaf3874e13/155/2022/00/10",
+                    "playerId": "b0ae24d9ba4812923fd0a6aaf3874e13",
+                    "playerName": "奥利弗·吉鲁",
+                    "logo": "https://ss1.baidu.com/6ONXsjip0QIZ8tyhnq/it/u=3571845975,530499947&fm=58&app=10&f=PNG?w=247&h=247&s=2B408B4FC4B00996888D6CBB03008012",
+                    "teamName": "法国",
+                    "statsName": "射⼿榜",
+                    "score": "2",
+                    "penaltyValue": "0",
+                    "position": "前锋",
+                    "link": "/player?id=b0ae24d9ba4812923fd0a6aaf3874e13",
+                    "naTabInfo": {
+                         "tabId": 44,
+                         "title": "动态",
+                         "loadUrl": "https://tiyu.baidu.com/player?id=b0ae24d9ba4812923fd0a6aaf3874e13&tab=%E5%8A%A8%E6%80%81&from=baidu_shoubai_na",
+                         "shareUrl": "https://tiyu.baidu.com/player?id=b0ae24d9ba4812923fd0a6aaf3874e13&tab=%E5%8A%A8%E6%80%81"
+                    }
+               },
+               {
+                    "loc": "http://tiyu.baidu.com/stats/player/1d968b379ab6474ac021be6ddebfd8d7/155/2022/00/10",
+                    "playerId": "1d968b379ab6474ac021be6ddebfd8d7",
+                    "playerName": "布卡约·萨卡",
+                    "logo": "https://ss0.baidu.com/6ONWsjip0QIZ8tyhnq/it/u=1423929595,2641489142&fm=58&app=10&f=PNG?w=156&h=156&s=EDD08342A49B24750268649903008092",
+                    "teamName": "英格兰",
+                    "statsName": "射⼿榜",
+                    "score": "2",
+                    "penaltyValue": "0",
+                    "position": "前锋",
+                    "link": "/player?id=1d968b379ab6474ac021be6ddebfd8d7",
+                    "naTabInfo": {
+                         "tabId": 44,
+                         "title": "动态",
+                         "loadUrl": "https://tiyu.baidu.com/player?id=1d968b379ab6474ac021be6ddebfd8d7&tab=%E5%8A%A8%E6%80%81&from=baidu_shoubai_na",
+                         "shareUrl": "https://tiyu.baidu.com/player?id=1d968b379ab6474ac021be6ddebfd8d7&tab=%E5%8A%A8%E6%80%81"
+                    }
+               },
+               {
+                    "loc": "http://tiyu.baidu.com/stats/player/bdf623218e1af55ba9b574ede3e700b0/155/2022/00/10",
+                    "playerId": "bdf623218e1af55ba9b574ede3e700b0",
+                    "playerName": "恩纳.瓦伦西亚",
+                    "logo": "https://cdn.sportnanoapi.com/avatar/115954bc9ab9e703fe77126bb3b29d89.png",
+                    "teamName": "厄瓜多尔",
+                    "statsName": "射⼿榜",
+                    "score": "2",
+                    "penaltyValue": "1",
+                    "position": "前锋",
+                    "link": "/player?id=bdf623218e1af55ba9b574ede3e700b0",
+                    "naTabInfo": {
+                         "tabId": 44,
+                         "title": "动态",
+                         "loadUrl": "https://tiyu.baidu.com/player?id=bdf623218e1af55ba9b574ede3e700b0&tab=%E5%8A%A8%E6%80%81&from=baidu_shoubai_na",
+                         "shareUrl": "https://tiyu.baidu.com/player?id=bdf623218e1af55ba9b574ede3e700b0&tab=%E5%8A%A8%E6%80%81"
+                    }
+               },
+               {
+                    "loc": "http://tiyu.baidu.com/stats/player/6ee86422b7f26c97efe4060f2953a076/155/2022/00/10",
+                    "playerId": "6ee86422b7f26c97efe4060f2953a076",
+                    "playerName": "费兰·托雷斯",
+                    "logo": "https://cdn.sportnanoapi.com/avatar/6e141f73547a541863564a388e9e86a0.png",
+                    "teamName": "西班牙",
+                    "statsName": "射⼿榜",
+                    "score": "2",
+                    "penaltyValue": "1",
+                    "position": "前锋",
+                    "link": "/player?id=6ee86422b7f26c97efe4060f2953a076",
+                    "naTabInfo": {
+                         "tabId": 44,
+                         "title": "动态",
+                         "loadUrl": "https://tiyu.baidu.com/player?id=6ee86422b7f26c97efe4060f2953a076&tab=%E5%8A%A8%E6%80%81&from=baidu_shoubai_na",
+                         "shareUrl": "https://tiyu.baidu.com/player?id=6ee86422b7f26c97efe4060f2953a076&tab=%E5%8A%A8%E6%80%81"
+                    }
+               },
+               {
+                    "loc": "http://tiyu.baidu.com/stats/player/a35b549280a0c06f6944436ed89d5e94/155/2022/00/10",
+                    "playerId": "a35b549280a0c06f6944436ed89d5e94",
+                    "playerName": "浅野拓磨",
+                    "logo": "https://ss1.baidu.com/6ONXsjip0QIZ8tyhnq/it/u=1301699056,2699060397&fm=58&app=10&f=PNG?w=147&h=147&s=6FE88B4782BA3194300091A803007011",
+                    "teamName": "日本",
+                    "statsName": "射⼿榜",
+                    "score": "1",
+                    "penaltyValue": "0",
+                    "position": "前锋",
+                    "link": "/player?id=a35b549280a0c06f6944436ed89d5e94",
+                    "naTabInfo": {
+                         "tabId": 44,
+                         "title": "动态",
+                         "loadUrl": "https://tiyu.baidu.com/player?id=a35b549280a0c06f6944436ed89d5e94&tab=%E5%8A%A8%E6%80%81&from=baidu_shoubai_na",
+                         "shareUrl": "https://tiyu.baidu.com/player?id=a35b549280a0c06f6944436ed89d5e94&tab=%E5%8A%A8%E6%80%81"
+                    }
+               },
+               {
+                    "loc": "http://tiyu.baidu.com/stats/player/a6dac253cfd525d2838aebeec10155a8/155/2022/00/10",
+                    "playerId": "a6dac253cfd525d2838aebeec10155a8",
+                    "playerName": "科迪·加克波",
+                    "logo": "https://cdn.sportnanoapi.com/avatar/03716d47aa6fcdba42afb89c25cc5ee8.png",
+                    "teamName": "荷兰",
+                    "statsName": "射⼿榜",
+                    "score": "1",
+                    "penaltyValue": "0",
+                    "position": "前锋",
+                    "link": "/player?id=a6dac253cfd525d2838aebeec10155a8",
+                    "naTabInfo": {
+                         "tabId": 44,
+                         "title": "动态",
+                         "loadUrl": "https://tiyu.baidu.com/player?id=a6dac253cfd525d2838aebeec10155a8&tab=%E5%8A%A8%E6%80%81&from=baidu_shoubai_na",
+                         "shareUrl": "https://tiyu.baidu.com/player?id=a6dac253cfd525d2838aebeec10155a8&tab=%E5%8A%A8%E6%80%81"
+                    }
+               },
+               {
+                    "loc": "http://tiyu.baidu.com/stats/player/05ed2c6e0b71f983489725832a426add/155/2022/00/10",
+                    "playerId": "05ed2c6e0b71f983489725832a426add",
+                    "playerName": "加雷斯·贝尔",
+                    "logo": "https://ss2.baidu.com/6ONYsjip0QIZ8tyhnq/it/u=2017523934,2138319946&fm=58&app=10&f=PNG?w=250&h=250&s=2BC08A47C4B0859CC9A605F80300C016",
+                    "teamName": "威尔士",
+                    "statsName": "射⼿榜",
+                    "score": "1",
+                    "penaltyValue": "1",
+                    "position": "前锋",
+                    "link": "/player?id=05ed2c6e0b71f983489725832a426add",
+                    "naTabInfo": {
+                         "tabId": 44,
+                         "title": "动态",
+                         "loadUrl": "https://tiyu.baidu.com/player?id=05ed2c6e0b71f983489725832a426add&tab=%E5%8A%A8%E6%80%81&from=baidu_shoubai_na",
+                         "shareUrl": "https://tiyu.baidu.com/player?id=05ed2c6e0b71f983489725832a426add&tab=%E5%8A%A8%E6%80%81"
+                    }
+               },
+               {
+                    "loc": "http://tiyu.baidu.com/stats/player/6f541de2d2553c53479a2f6c5217f698/155/2022/00/10",
+                    "playerId": "6f541de2d2553c53479a2f6c5217f698",
+                    "playerName": "裘德·贝林厄姆",
+                    "logo": "https://cdn.sportnanoapi.com/avatar/136579f73bcf4fb8f92012fee1d1490e.png",
+                    "teamName": "英格兰",
+                    "statsName": "射⼿榜",
+                    "score": "1",
+                    "penaltyValue": "0",
+                    "position": "中场",
+                    "link": "/player?id=6f541de2d2553c53479a2f6c5217f698",
+                    "naTabInfo": {
+                         "tabId": 44,
+                         "title": "动态",
+                         "loadUrl": "https://tiyu.baidu.com/player?id=6f541de2d2553c53479a2f6c5217f698&tab=%E5%8A%A8%E6%80%81&from=baidu_shoubai_na",
+                         "shareUrl": "https://tiyu.baidu.com/player?id=6f541de2d2553c53479a2f6c5217f698&tab=%E5%8A%A8%E6%80%81"
+                    }
+               },
+               {
+                    "loc": "http://tiyu.baidu.com/stats/player/726fb248ecc7153d63c2a59cec3eb936/155/2022/00/10",
+                    "playerId": "726fb248ecc7153d63c2a59cec3eb936",
+                    "playerName": "马尔科·阿森西奥",
+                    "logo": "https://cdn.sportnanoapi.com/avatar/6aedcde8148228eb11d8595d5376e22a.png",
+                    "teamName": "西班牙",
+                    "statsName": "射⼿榜",
+                    "score": "1",
+                    "penaltyValue": "0",
+                    "position": "前锋",
+                    "link": "/player?id=726fb248ecc7153d63c2a59cec3eb936",
+                    "naTabInfo": {
+                         "tabId": 44,
+                         "title": "动态",
+                         "loadUrl": "https://tiyu.baidu.com/player?id=726fb248ecc7153d63c2a59cec3eb936&tab=%E5%8A%A8%E6%80%81&from=baidu_shoubai_na",
+                         "shareUrl": "https://tiyu.baidu.com/player?id=726fb248ecc7153d63c2a59cec3eb936&tab=%E5%8A%A8%E6%80%81"
+                    }
+               },
+               {
+                    "loc": "http://tiyu.baidu.com/stats/player/7c38c39d3fb5626e0dc29fa07f8bd619/155/2022/00/10",
+                    "playerId": "7c38c39d3fb5626e0dc29fa07f8bd619",
+                    "playerName": "卡洛斯·索莱尔",
+                    "logo": "https://cdn.sportnanoapi.com/avatar/98dd9d36b2942afaac078ae60bdb6741.png",
+                    "teamName": "西班牙",
+                    "statsName": "射⼿榜",
+                    "score": "1",
+                    "penaltyValue": "0",
+                    "position": "中场",
+                    "link": "/player?id=7c38c39d3fb5626e0dc29fa07f8bd619",
+                    "naTabInfo": {
+                         "tabId": 44,
+                         "title": "动态",
+                         "loadUrl": "https://tiyu.baidu.com/player?id=7c38c39d3fb5626e0dc29fa07f8bd619&tab=%E5%8A%A8%E6%80%81&from=baidu_shoubai_na",
+                         "shareUrl": "https://tiyu.baidu.com/player?id=7c38c39d3fb5626e0dc29fa07f8bd619&tab=%E5%8A%A8%E6%80%81"
+                    }
+               },
+               {
+                    "loc": "http://tiyu.baidu.com/stats/player/3c38469adfc014c4fa15440720dcf5d3/155/2022/00/10",
+                    "playerId": "3c38469adfc014c4fa15440720dcf5d3",
+                    "playerName": "萨利姆·阿尔多萨里",
+                    "logo": "https://cdn.sportnanoapi.com/avatar/e6d67e4f5890b4836cae3ebde5f047d5.png",
+                    "teamName": "沙特阿拉伯",
+                    "statsName": "射⼿榜",
+                    "score": "1",
+                    "penaltyValue": "0",
+                    "position": "中场",
+                    "link": "/player?id=3c38469adfc014c4fa15440720dcf5d3",
+                    "naTabInfo": {
+                         "tabId": 44,
+                         "title": "动态",
+                         "loadUrl": "https://tiyu.baidu.com/player?id=3c38469adfc014c4fa15440720dcf5d3&tab=%E5%8A%A8%E6%80%81&from=baidu_shoubai_na",
+                         "shareUrl": "https://tiyu.baidu.com/player?id=3c38469adfc014c4fa15440720dcf5d3&tab=%E5%8A%A8%E6%80%81"
+                    }
+               },
+               {
+                    "loc": "http://tiyu.baidu.com/stats/player/52d4fc6deb583de25fcb467c0eb60a3e/155/2022/00/10",
+                    "playerId": "52d4fc6deb583de25fcb467c0eb60a3e",
+                    "playerName": "萨利赫·阿尔谢赫里",
+                    "logo": "https://cdn.sportnanoapi.com/avatar/b2b41789d5118e8256e0a5b87d23b246.png",
+                    "teamName": "沙特阿拉伯",
+                    "statsName": "射⼿榜",
+                    "score": "1",
+                    "penaltyValue": "0",
+                    "position": "前锋",
+                    "link": "/player?id=52d4fc6deb583de25fcb467c0eb60a3e",
+                    "naTabInfo": {
+                         "tabId": 44,
+                         "title": "动态",
+                         "loadUrl": "https://tiyu.baidu.com/player?id=52d4fc6deb583de25fcb467c0eb60a3e&tab=%E5%8A%A8%E6%80%81&from=baidu_shoubai_na",
+                         "shareUrl": "https://tiyu.baidu.com/player?id=52d4fc6deb583de25fcb467c0eb60a3e&tab=%E5%8A%A8%E6%80%81"
+                    }
+               },
+               {
+                    "loc": "http://tiyu.baidu.com/stats/player/d6ba0ece6f4a1efca038c661af6d6163/155/2022/00/10",
+                    "playerId": "d6ba0ece6f4a1efca038c661af6d6163",
+                    "playerName": "拉希姆·斯特林",
+                    "logo": "https://ss0.baidu.com/6ONWsjip0QIZ8tyhnq/it/u=724881400,4001465444&fm=58&app=10&f=PNG?w=223&h=223&s=65745B6EC6D914759CE064B80300C012",
+                    "teamName": "英格兰",
+                    "statsName": "射⼿榜",
+                    "score": "1",
+                    "penaltyValue": "0",
+                    "position": "前锋",
+                    "link": "/player?id=d6ba0ece6f4a1efca038c661af6d6163",
+                    "naTabInfo": {
+                         "tabId": 44,
+                         "title": "动态",
+                         "loadUrl": "https://tiyu.baidu.com/player?id=d6ba0ece6f4a1efca038c661af6d6163&tab=%E5%8A%A8%E6%80%81&from=baidu_shoubai_na",
+                         "shareUrl": "https://tiyu.baidu.com/player?id=d6ba0ece6f4a1efca038c661af6d6163&tab=%E5%8A%A8%E6%80%81"
+                    }
+               },
+               {
+                    "loc": "http://tiyu.baidu.com/stats/player/96a8840e00d954b8f7007a871bf92ba5/155/2022/00/10",
+                    "playerId": "96a8840e00d954b8f7007a871bf92ba5",
+                    "playerName": "蒂莫西·维阿",
+                    "logo": "https://ss1.baidu.com/6ONXsjip0QIZ8tyhnq/it/u=1554783563,2855086448&fm=58&app=10&f=PNG?w=250&h=246&s=2B40824ECC40115D500C94A903008013",
+                    "teamName": "美国",
+                    "statsName": "射⼿榜",
+                    "score": "1",
+                    "penaltyValue": "0",
+                    "position": "前锋",
+                    "link": "/player?id=96a8840e00d954b8f7007a871bf92ba5",
+                    "naTabInfo": {
+                         "tabId": 44,
+                         "title": "动态",
+                         "loadUrl": "https://tiyu.baidu.com/player?id=96a8840e00d954b8f7007a871bf92ba5&tab=%E5%8A%A8%E6%80%81&from=baidu_shoubai_na",
+                         "shareUrl": "https://tiyu.baidu.com/player?id=96a8840e00d954b8f7007a871bf92ba5&tab=%E5%8A%A8%E6%80%81"
+                    }
+               },
+               {
+                    "loc": "http://tiyu.baidu.com/stats/player/0f69a1eebd09b8b70fd7e82194a37044/155/2022/00/10",
+                    "playerId": "0f69a1eebd09b8b70fd7e82194a37044",
+                    "playerName": "马库斯·拉什福德",
+                    "logo": "https://ss0.baidu.com/6ONWsjip0QIZ8tyhnq/it/u=425682217,2845585665&fm=58&app=10&f=PNG?w=210&h=207&s=2D548A43CE43105D96E864B90300C012",
+                    "teamName": "英格兰",
+                    "statsName": "射⼿榜",
+                    "score": "1",
+                    "penaltyValue": "0",
+                    "position": "前锋",
+                    "link": "/player?id=0f69a1eebd09b8b70fd7e82194a37044",
+                    "naTabInfo": {
+                         "tabId": 44,
+                         "title": "动态",
+                         "loadUrl": "https://tiyu.baidu.com/player?id=0f69a1eebd09b8b70fd7e82194a37044&tab=%E5%8A%A8%E6%80%81&from=baidu_shoubai_na",
+                         "shareUrl": "https://tiyu.baidu.com/player?id=0f69a1eebd09b8b70fd7e82194a37044&tab=%E5%8A%A8%E6%80%81"
+                    }
+               },
+               {
+                    "loc": "http://tiyu.baidu.com/stats/player/5383500519ca6ac6add861f8d62c8269/155/2022/00/10",
+                    "playerId": "5383500519ca6ac6add861f8d62c8269",
+                    "playerName": "布雷尔·恩博洛",
+                    "logo": "https://ss1.baidu.com/6ONXsjip0QIZ8tyhnq/it/u=3485789518,4053520954&fm=58&app=10&f=PNG?w=283&h=283&s=2974CA4E84021557805864B903008092",
+                    "teamName": "瑞士",
+                    "statsName": "射⼿榜",
+                    "score": "1",
+                    "penaltyValue": "0",
+                    "position": "前锋",
+                    "link": "/player?id=5383500519ca6ac6add861f8d62c8269",
+                    "naTabInfo": {
+                         "tabId": 44,
+                         "title": "动态",
+                         "loadUrl": "https://tiyu.baidu.com/player?id=5383500519ca6ac6add861f8d62c8269&tab=%E5%8A%A8%E6%80%81&from=baidu_shoubai_na",
+                         "shareUrl": "https://tiyu.baidu.com/player?id=5383500519ca6ac6add861f8d62c8269&tab=%E5%8A%A8%E6%80%81"
+                    }
+               },
+               {
+                    "loc": "http://tiyu.baidu.com/stats/player/b8bbc7175d88b2c9365f528ed56cdb6e/155/2022/00/10",
+                    "playerId": "b8bbc7175d88b2c9365f528ed56cdb6e",
+                    "playerName": "里奥·梅西",
+                    "logo": "https://cdn.sportnanoapi.com/avatar/b333589f148610661a834605923d8fc2.png",
+                    "teamName": "阿根廷",
+                    "statsName": "射⼿榜",
+                    "score": "1",
+                    "penaltyValue": "1",
+                    "position": "前锋",
+                    "link": "/player?id=b8bbc7175d88b2c9365f528ed56cdb6e",
+                    "naTabInfo": {
+                         "tabId": 44,
+                         "title": "动态",
+                         "loadUrl": "https://tiyu.baidu.com/player?id=b8bbc7175d88b2c9365f528ed56cdb6e&tab=%E5%8A%A8%E6%80%81&from=baidu_shoubai_na",
+                         "shareUrl": "https://tiyu.baidu.com/player?id=b8bbc7175d88b2c9365f528ed56cdb6e&tab=%E5%8A%A8%E6%80%81"
+                    }
+               },
+               {
+                    "loc": "http://tiyu.baidu.com/stats/player/bb6df2de08423cdb7353cc21bf39f768/155/2022/00/10",
+                    "playerId": "bb6df2de08423cdb7353cc21bf39f768",
+                    "playerName": "伊尔凯·京多安",
+                    "logo": "https://ss2.baidu.com/6ONYsjip0QIZ8tyhnq/it/u=288231554,3073096103&fm=58&app=10&f=PNG?w=208&h=208&s=2D548B42CE4A1C5582C864B90300C012",
+                    "teamName": "德国",
+                    "statsName": "射⼿榜",
+                    "score": "1",
+                    "penaltyValue": "1",
+                    "position": "中场",
+                    "link": "/player?id=bb6df2de08423cdb7353cc21bf39f768",
+                    "naTabInfo": {
+                         "tabId": 44,
+                         "title": "动态",
+                         "loadUrl": "https://tiyu.baidu.com/player?id=bb6df2de08423cdb7353cc21bf39f768&tab=%E5%8A%A8%E6%80%81&from=baidu_shoubai_na",
+                         "shareUrl": "https://tiyu.baidu.com/player?id=bb6df2de08423cdb7353cc21bf39f768&tab=%E5%8A%A8%E6%80%81"
+                    }
+               },
+               {
+                    "loc": "http://tiyu.baidu.com/stats/player/bbbd177d6a7d416d677cfaf91330a898/155/2022/00/10",
+                    "playerId": "bbbd177d6a7d416d677cfaf91330a898",
+                    "playerName": "杰克·格拉利什",
+                    "logo": "https://ss2.baidu.com/6ONYsjip0QIZ8tyhnq/it/u=793886588,1655786204&fm=58&app=10&f=PNG?w=239&h=234&s=29E0CA03CC31219CC8A06CF903001012",
+                    "teamName": "英格兰",
+                    "statsName": "射⼿榜",
+                    "score": "1",
+                    "penaltyValue": "0",
+                    "position": "中场",
+                    "link": "/player?id=bbbd177d6a7d416d677cfaf91330a898",
+                    "naTabInfo": {
+                         "tabId": 44,
+                         "title": "动态",
+                         "loadUrl": "https://tiyu.baidu.com/player?id=bbbd177d6a7d416d677cfaf91330a898&tab=%E5%8A%A8%E6%80%81&from=baidu_shoubai_na",
+                         "shareUrl": "https://tiyu.baidu.com/player?id=bbbd177d6a7d416d677cfaf91330a898&tab=%E5%8A%A8%E6%80%81"
+                    }
+               },
+               {
+                    "loc": "http://tiyu.baidu.com/stats/player/18c81435fe1f4f324d1d0cbbe3781679/155/2022/00/10",
+                    "playerId": "18c81435fe1f4f324d1d0cbbe3781679",
+                    "playerName": "达尼·奥尔莫",
+                    "logo": "https://cdn.sportnanoapi.com/avatar/913989af8de82d64ff4c312ed6588305.png",
+                    "teamName": "西班牙",
+                    "statsName": "射⼿榜",
+                    "score": "1",
+                    "penaltyValue": "0",
+                    "position": "前锋",
+                    "link": "/player?id=18c81435fe1f4f324d1d0cbbe3781679",
+                    "naTabInfo": {
+                         "tabId": 44,
+                         "title": "动态",
+                         "loadUrl": "https://tiyu.baidu.com/player?id=18c81435fe1f4f324d1d0cbbe3781679&tab=%E5%8A%A8%E6%80%81&from=baidu_shoubai_na",
+                         "shareUrl": "https://tiyu.baidu.com/player?id=18c81435fe1f4f324d1d0cbbe3781679&tab=%E5%8A%A8%E6%80%81"
+                    }
+               },
+               {
+                    "loc": "http://tiyu.baidu.com/stats/player/7a456bc3785dd2e970ed9c36663efe38/155/2022/00/10",
+                    "playerId": "7a456bc3785dd2e970ed9c36663efe38",
+                    "playerName": "阿德里安·拉比奥特",
+                    "logo": "https://cdn.sportnanoapi.com/avatar/97700189894df0bf2954f134dff29185.png",
+                    "teamName": "法国",
+                    "statsName": "射⼿榜",
+                    "score": "1",
+                    "penaltyValue": "0",
+                    "position": "中场",
+                    "link": "/player?id=7a456bc3785dd2e970ed9c36663efe38",
+                    "naTabInfo": {
+                         "tabId": 44,
+                         "title": "动态",
+                         "loadUrl": "https://tiyu.baidu.com/player?id=7a456bc3785dd2e970ed9c36663efe38&tab=%E5%8A%A8%E6%80%81&from=baidu_shoubai_na",
+                         "shareUrl": "https://tiyu.baidu.com/player?id=7a456bc3785dd2e970ed9c36663efe38&tab=%E5%8A%A8%E6%80%81"
+                    }
+               },
+               {
+                    "loc": "http://tiyu.baidu.com/stats/player/e70b3b1ef44b81838e139217c3198c97/155/2022/00/10",
+                    "playerId": "e70b3b1ef44b81838e139217c3198c97",
+                    "playerName": "莫拉塔",
+                    "logo": "https://cdn.sportnanoapi.com/avatar/0d32d8b2865f569e1cb79871c39c3446.png",
+                    "teamName": "西班牙",
+                    "statsName": "射⼿榜",
+                    "score": "1",
+                    "penaltyValue": "0",
+                    "position": "前锋",
+                    "link": "/player?id=e70b3b1ef44b81838e139217c3198c97",
+                    "naTabInfo": {
+                         "tabId": 44,
+                         "title": "动态",
+                         "loadUrl": "https://tiyu.baidu.com/player?id=e70b3b1ef44b81838e139217c3198c97&tab=%E5%8A%A8%E6%80%81&from=baidu_shoubai_na",
+                         "shareUrl": "https://tiyu.baidu.com/player?id=e70b3b1ef44b81838e139217c3198c97&tab=%E5%8A%A8%E6%80%81"
+                    }
+               },
+               {
+                    "loc": "http://tiyu.baidu.com/stats/player/0a49cc8b376fe46a3b5a7a4b2aad5380/155/2022/00/10",
+                    "playerId": "0a49cc8b376fe46a3b5a7a4b2aad5380",
+                    "playerName": "克雷格·古德温",
+                    "logo": "https://ss0.baidu.com/6ONWsjip0QIZ8tyhnq/it/u=3659659831,2829203935&fm=58&app=10&f=PNG?w=344&h=344&s=6F008347A672259C308C0CB80300D012",
+                    "teamName": "澳大利亚",
+                    "statsName": "射⼿榜",
+                    "score": "1",
+                    "penaltyValue": "0",
+                    "position": "前锋",
+                    "link": "/player?id=0a49cc8b376fe46a3b5a7a4b2aad5380",
+                    "naTabInfo": {
+                         "tabId": 44,
+                         "title": "动态",
+                         "loadUrl": "https://tiyu.baidu.com/player?id=0a49cc8b376fe46a3b5a7a4b2aad5380&tab=%E5%8A%A8%E6%80%81&from=baidu_shoubai_na",
+                         "shareUrl": "https://tiyu.baidu.com/player?id=0a49cc8b376fe46a3b5a7a4b2aad5380&tab=%E5%8A%A8%E6%80%81"
+                    }
+               },
+               {
+                    "loc": "http://tiyu.baidu.com/stats/player/15cf05b73a044c08d64f2d9cc9a69b23/155/2022/00/10",
+                    "playerId": "15cf05b73a044c08d64f2d9cc9a69b23",
+                    "playerName": "米奇·巴舒亚伊",
+                    "logo": "https://ss1.baidu.com/6ONXsjip0QIZ8tyhnq/it/u=936739285,3346883746&fm=58&app=10&f=PNG?w=156&h=156&s=29C0984E8E01345749AA65B80300C012",
+                    "teamName": "比利时",
+                    "statsName": "射⼿榜",
+                    "score": "1",
+                    "penaltyValue": "0",
+                    "position": "前锋",
+                    "link": "/player?id=15cf05b73a044c08d64f2d9cc9a69b23",
+                    "naTabInfo": {
+                         "tabId": 44,
+                         "title": "动态",
+                         "loadUrl": "https://tiyu.baidu.com/player?id=15cf05b73a044c08d64f2d9cc9a69b23&tab=%E5%8A%A8%E6%80%81&from=baidu_shoubai_na",
+                         "shareUrl": "https://tiyu.baidu.com/player?id=15cf05b73a044c08d64f2d9cc9a69b23&tab=%E5%8A%A8%E6%80%81"
+                    }
+               },
+               {
+                    "loc": "http://tiyu.baidu.com/stats/player/5fef4011c42d87aefa01ad21e7aa2af9/155/2022/00/10",
+                    "playerId": "5fef4011c42d87aefa01ad21e7aa2af9",
+                    "playerName": "达维·克拉森",
+                    "logo": "https://cdn.sportnanoapi.com/avatar/4487aecf9fe95b28a9dfdeb1cd15d35d.png",
+                    "teamName": "荷兰",
+                    "statsName": "射⼿榜",
+                    "score": "1",
+                    "penaltyValue": "0",
+                    "position": "中场",
+                    "link": "/player?id=5fef4011c42d87aefa01ad21e7aa2af9",
+                    "naTabInfo": {
+                         "tabId": 44,
+                         "title": "动态",
+                         "loadUrl": "https://tiyu.baidu.com/player?id=5fef4011c42d87aefa01ad21e7aa2af9&tab=%E5%8A%A8%E6%80%81&from=baidu_shoubai_na",
+                         "shareUrl": "https://tiyu.baidu.com/player?id=5fef4011c42d87aefa01ad21e7aa2af9&tab=%E5%8A%A8%E6%80%81"
+                    }
+               },
+               {
+                    "loc": "http://tiyu.baidu.com/stats/player/6ff6fae71a5da5f3a1b8bafee0571b25/155/2022/00/10",
+                    "playerId": "6ff6fae71a5da5f3a1b8bafee0571b25",
+                    "playerName": "巴勃罗·马丁·派斯·加维拉",
+                    "logo": "https://cdn.sportnanoapi.com/avatar/2661e0045ca0f323f1361beda2e3d53a.png",
+                    "teamName": "西班牙",
+                    "statsName": "射⼿榜",
+                    "score": "1",
+                    "penaltyValue": "0",
+                    "position": "中场",
+                    "link": "/player?id=6ff6fae71a5da5f3a1b8bafee0571b25",
+                    "naTabInfo": {
+                         "tabId": 44,
+                         "title": "动态",
+                         "loadUrl": "https://tiyu.baidu.com/player?id=6ff6fae71a5da5f3a1b8bafee0571b25&tab=%E5%8A%A8%E6%80%81&from=baidu_shoubai_na",
+                         "shareUrl": "https://tiyu.baidu.com/player?id=6ff6fae71a5da5f3a1b8bafee0571b25&tab=%E5%8A%A8%E6%80%81"
+                    }
+               },
+               {
+                    "loc": "http://tiyu.baidu.com/stats/player/7ff59abb69b1d25a1e0b080b87a7476c/155/2022/00/10",
+                    "playerId": "7ff59abb69b1d25a1e0b080b87a7476c",
+                    "playerName": "基利安·姆巴佩",
+                    "logo": "https://cdn.sportnanoapi.com/avatar/2ae0fc16a4687f34661c67ef0cf0e75b.png",
+                    "teamName": "法国",
+                    "statsName": "射⼿榜",
+                    "score": "1",
+                    "penaltyValue": "0",
+                    "position": "前锋",
+                    "link": "/player?id=7ff59abb69b1d25a1e0b080b87a7476c",
+                    "naTabInfo": {
+                         "tabId": 44,
+                         "title": "动态",
+                         "loadUrl": "https://tiyu.baidu.com/player?id=7ff59abb69b1d25a1e0b080b87a7476c&tab=%E5%8A%A8%E6%80%81&from=baidu_shoubai_na",
+                         "shareUrl": "https://tiyu.baidu.com/player?id=7ff59abb69b1d25a1e0b080b87a7476c&tab=%E5%8A%A8%E6%80%81"
+                    }
+               },
+               {
+                    "loc": "http://tiyu.baidu.com/stats/player/b90ae4193b577bd9dc830708a67ce904/155/2022/00/10",
+                    "playerId": "b90ae4193b577bd9dc830708a67ce904",
+                    "playerName": "堂安律",
+                    "logo": "https://ss1.baidu.com/6ONXsjip0QIZ8tyhnq/it/u=661926713,2147806444&fm=58&app=10&f=PNG?w=153&h=153&s=6F48934786E21115B1A491A80300B011",
+                    "teamName": "日本",
+                    "statsName": "射⼿榜",
+                    "score": "1",
+                    "penaltyValue": "0",
+                    "position": "中场",
+                    "link": "/player?id=b90ae4193b577bd9dc830708a67ce904",
+                    "naTabInfo": {
+                         "tabId": 44,
+                         "title": "动态",
+                         "loadUrl": "https://tiyu.baidu.com/player?id=b90ae4193b577bd9dc830708a67ce904&tab=%E5%8A%A8%E6%80%81&from=baidu_shoubai_na",
+                         "shareUrl": "https://tiyu.baidu.com/player?id=b90ae4193b577bd9dc830708a67ce904&tab=%E5%8A%A8%E6%80%81"
+                    }
+               }
+          ],
+          "sports": "football",
+          "current": 0
+     },
+     "pf": {
+          "total_cost": 19,
+          "redis_get": 7
+     },
+     "message": "成功",
+     "from": "self",
+     "headerStyle": {
+          "hide": true
+     },
+     "userInfo": {
+          "isLogin": false,
+          "info": null
+     },
+     "refer": null,
+     "qid": 3960629694
+}
